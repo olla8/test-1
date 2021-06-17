@@ -7,7 +7,14 @@ public class ExperimentalClass {
     }
 
     public ExperimentalClass(String s) {
-            this.s = s;
+        this.s = s;
 
-        }
     }
+
+    @Override
+    public String toString() {
+        return "ExperimentalClass{" +
+                "i=" + i +
+                '}';
+    }
+}
