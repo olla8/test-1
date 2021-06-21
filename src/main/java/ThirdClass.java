@@ -8,6 +8,7 @@ public class ThirdClass {
         ThirdClass dog = new ThirdClass();
         System.out.println("number of legs = "+dog.numberOfLegs);
         System.out.println(dog.bark);
+        sssss
     }
 
 }
