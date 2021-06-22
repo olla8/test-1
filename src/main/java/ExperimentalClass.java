@@ -8,6 +8,7 @@ public class ExperimentalClass {
 
     public ExperimentalClass(String s) {
         this.s = s;
+        String k = "ola";
 
     }
 
