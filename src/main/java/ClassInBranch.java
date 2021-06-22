@@ -8,6 +8,7 @@ public class ClassInBranch {
 
     public String kwik(){
         return "kwik";
+        //
     }
 
     public static void main(String[] args) {
