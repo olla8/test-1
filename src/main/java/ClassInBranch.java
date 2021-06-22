@@ -5,6 +5,7 @@ public class ClassInBranch {
     public ClassInBranch(int number) {
         this.number = number;
     }
+    //
 
     public String kwik(){
         return "kwik";
