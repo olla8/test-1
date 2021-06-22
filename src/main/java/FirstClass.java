@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 public class FirstClass {
     // mhhh destination
-
+//hehe
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         String name = reader.readLine();
