@@ -2,6 +2,7 @@ public class ThirdClass {
     private String bark = "hau hau";
     private final int numberOfLegs = 4;
     public ThirdClass() {
+        bark = "miau";
     }
 
     public static void main(String[] args) {
