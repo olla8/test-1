@@ -25,4 +25,8 @@ public class SecondClass {
     }
 
 
+    public void differentMethod(){
+        System.out.println("hello");
+    }
+
 }
